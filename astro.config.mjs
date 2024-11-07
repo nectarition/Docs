@@ -6,21 +6,29 @@ import starlight from '@astrojs/starlight';
 export default defineConfig({
 	integrations: [
 		starlight({
-			title: 'My Docs',
+			title: 'ねくたりDocs',
+			customCss: [
+				'@fontsource-variable/noto-sans-jp',
+				'./src/styles/custom.css',
+			],
+			defaultLocale: 'root',
+			locales: {
+				root: {
+					label: '日本語',
+					lang: 'ja-JP',
+				}
+			},
 			social: {
-				github: 'https://github.com/withastro/starlight',
+				github: 'https://github.com/nectarition',
 			},
 			sidebar: [
 				{
-					label: 'Guides',
-					items: [
-						// Each item here is one entry in the navigation menu.
-						{ label: 'Example Guide', slug: 'guides/example' },
-					],
+					label: 'はじめに',
+					autogenerate: { directory: 'about' }
 				},
 				{
-					label: 'Reference',
-					autogenerate: { directory: 'reference' },
+					label: 'ドキュメント',
+					autogenerate: { directory: 'docs' }
 				},
 			],
 		}),
