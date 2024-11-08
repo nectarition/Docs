@@ -14,7 +14,7 @@ title: '出欠確認'
 1. 主催から提供された認証情報を使用しログインしてください
 ![ログイン画面](assets/checkin/checkin-1.png)
 1. 「出欠確認を行う」を押下
-[出欠確認を行う](assets/rollcall/rollcall-1.png)
+![出欠確認を行う](assets/rollcall/rollcall-1.png)
 
 ### 出欠確認を行う
 
