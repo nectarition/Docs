@@ -22,6 +22,9 @@ export default defineConfig({
 			social: {
 				github: 'https://github.com/nectarition',
 			},
+			editLink: {
+				baseUrl: 'https://github.com/nectarition/Docs/edit/master/src/content/docs/',
+			},
 			sidebar: [
 				{
 					label: 'はじめに',
