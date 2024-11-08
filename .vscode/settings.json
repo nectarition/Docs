@@ -1,0 +1,7 @@
+{
+  "pasteImage.namePrefix": "${currentFileNameWithoutExt}_",
+  "pasteImage.path": "${currentFileDir}/img",
+  "pasteImage.prefix": "./",
+  "pasteImage.showFilePathConfirmInputBox": true,
+  "pasteImage.filePathConfirmInputBoxMode": "onlyName",
+}
