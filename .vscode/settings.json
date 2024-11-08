@@ -1,5 +1,5 @@
 {
   "markdown.copyFiles.destination": {
-    "**/*": "assets/${documentBaseName}/${fileName/^(.+)\\.([^.]+)/$2/}"
+    "**/*": "assets/${documentBaseName}/${documentBaseName}-${fileName}"
   }
 }

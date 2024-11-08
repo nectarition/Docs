@@ -2,15 +2,19 @@
 title: '出席登録'
 ---
 
+このページでは「参加登録 (出席登録)」を行う方法を記載しています。
+
+**欠席**登録を含む[「出欠確認」](rollcall)は別のページで解説しているのでそちらをご覧ください。
+
 ## 出席登録の方法
 
 ### ログイン・出席登録画面を開く
 
 1. [Soleil](https://sun.nectarition.jp/login) にアクセスします
 1. 主催から提供された認証情報を使用しログインしてください
-![ログイン画面](assets/attendance/attendance-1.png)
+![ログイン画面](assets/checkin/checkin-1.png)
 1. 「出席登録を行う」を押下
-![出席登録を行う](assets/attendance/attendance-2.png)
+![出席登録を行う](assets/checkin/checkin-2.png)
 
 ### QR コード読み取り方法を選択する
 
@@ -37,7 +41,7 @@ Soleil は QR コードの読み取り方法を複数選択できます。
 
 #### キーボード直接入力
 
-![直接入力](assets/attendance/attendance-3.png)
+![直接入力](assets/checkin/checkin-3.png)
 
 「封筒コード」欄に封筒コードを直接入力してください。
 
@@ -45,7 +49,7 @@ Soleil は QR コードの読み取り方法を複数選択できます。
 
 ### 出席登録
 
-![出席登録完了画面](assets/attendance/attendance-4.png)
+![出席登録完了画面](assets/checkin/checkin-4.png)
 
 出席登録が完了すると、ダイアログと緑のモーダルが表示されます。
 
