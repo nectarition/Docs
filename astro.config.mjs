@@ -23,7 +23,7 @@ export default defineConfig({
 				github: 'https://github.com/nectarition',
 			},
 			editLink: {
-				baseUrl: 'https://github.com/nectarition/Docs/edit/master/src/content/docs/',
+				baseUrl: 'https://github.com/nectarition/Docs/edit/master/',
 			},
 			sidebar: [
 				{
