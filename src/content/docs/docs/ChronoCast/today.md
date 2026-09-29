@@ -13,7 +13,7 @@ title: '当日の操作'
 
 ### 1.2. ChronoCast を起動する
 
-[事前準備](prepare.md) と同様に、ChronoCast にログインし、フォルダ ID を入力して、フォルダ選択を行います。
+[事前準備](../prepare) と同様に、ChronoCast にログインし、フォルダ ID を入力して、フォルダ選択を行います。
 
 ### 1.3. ChronoCast のミュートを解除する
 
