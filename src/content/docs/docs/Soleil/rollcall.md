@@ -12,15 +12,22 @@ title: '出欠確認'
 
 1. [Soleil](https://sun.nectarition.jp/login) にアクセスします
 1. 主催から提供された認証情報を使用しログインしてください
-![ログイン画面](assets/checkin/checkin-1.png)
-1. 「出欠確認を行う」を押下
-![出欠確認を行う](assets/rollcall/rollcall-1.png)
+![ログインボタン](assets/rollcall/rollcall-image.png)
+![ねくたりしょん ID 承認画面](assets/rollcall/rollcall-image-1.png)
+1. 出欠確認を行いたいイベントの「開く」を押下
+![イベント一覧](assets/rollcall/rollcall-image-2.png)
+1. 「出席簿を見る」を押下
+![イベント画面](assets/rollcall/rollcall-image-3.png)
 
 ### 出欠確認を行う
 
-出欠一覧を開くと、最初の画面で**出席登録が行われていない**サークルの一覧が表示されます。
+出席簿を見るを開くと、最初の画面でイベントに登録されているサークルの一覧が表示されます。
 
-![出欠一覧](assets/rollcall/rollcall-2.png)
+![出席簿](assets/rollcall/rollcall-image-4.png)
+
+未提出サークルのみを確認したい場合は「未提出のみ表示」を押下してください。
+
+![未提出のサークルのみの表示](assets/rollcall/rollcall-image-5.png)
 
 スペースを訪問しサークル参加者に参加登録 (見本誌提出) を促してください。
 
@@ -31,7 +38,3 @@ title: '出欠確認'
 :::danger
 欠席登録はクリティカルな操作であるため、主催が承認した場合のみ行えます。
 :::
-
-## 便利な機能
-
-「確認済みサークルも表示する」を押下すると、出席登録済みのサークルを含めて表示することができます。
